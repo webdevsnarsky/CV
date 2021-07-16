@@ -168,10 +168,10 @@ img {
   justify-content: space-around;
 }
 
-/* .aside__projects-sites,
+.aside__projects-sites,
 .aside__projects-apps {
-  
-} */
+  margin-bottom: 10px;
+}
 
 .apps__link, .sites__link {
   text-decoration: none;
