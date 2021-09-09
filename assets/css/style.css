@@ -136,30 +136,28 @@ img {
 }
 
 .aside__image {
+  margin: 0 auto;
+  width: 80%;
   border-radius: 10px;
-}
-
-@media screen and (max-width: 645px) {
-  .aside__image {
-    margin: 0 auto;
-  }
 }
 
 @media screen and (max-width: 992px) {
   .aside__image {
+    margin: inherit;
     width: 50%;
   }
 }
 
 @media screen and (max-width: 645px) {
   .aside__image {
-    width: 80%;
+    margin: 0 auto;
+    width: 60%;
   }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 376px) {
   .aside__image {
-    width: 100%;
+    width: 80%;
   }
 }
 
