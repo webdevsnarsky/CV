@@ -161,10 +161,10 @@ img {
   }
 }
 
-.aside__projects-inner {
+/* .aside__projects-inner {
   display: flex;
   justify-content: space-around;
-}
+} */
 
 .aside__projects-sites,
 .aside__projects-apps {
